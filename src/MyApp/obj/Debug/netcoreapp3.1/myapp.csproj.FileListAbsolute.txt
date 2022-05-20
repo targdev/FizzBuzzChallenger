@@ -1,0 +1,14 @@
+G:\Programming\Projetos\FizzBuzzWithSolution\src\myapp\bin\Debug\netcoreapp3.1\myapp.exe
+G:\Programming\Projetos\FizzBuzzWithSolution\src\myapp\bin\Debug\netcoreapp3.1\myapp.deps.json
+G:\Programming\Projetos\FizzBuzzWithSolution\src\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.json
+G:\Programming\Projetos\FizzBuzzWithSolution\src\myapp\bin\Debug\netcoreapp3.1\myapp.runtimeconfig.dev.json
+G:\Programming\Projetos\FizzBuzzWithSolution\src\myapp\bin\Debug\netcoreapp3.1\myapp.dll
+G:\Programming\Projetos\FizzBuzzWithSolution\src\myapp\bin\Debug\netcoreapp3.1\myapp.pdb
+G:\Programming\Projetos\FizzBuzzWithSolution\src\myapp\obj\Debug\netcoreapp3.1\myapp.csproj.AssemblyReference.cache
+G:\Programming\Projetos\FizzBuzzWithSolution\src\myapp\obj\Debug\netcoreapp3.1\myapp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Programming\Projetos\FizzBuzzWithSolution\src\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfoInputs.cache
+G:\Programming\Projetos\FizzBuzzWithSolution\src\myapp\obj\Debug\netcoreapp3.1\myapp.AssemblyInfo.cs
+G:\Programming\Projetos\FizzBuzzWithSolution\src\myapp\obj\Debug\netcoreapp3.1\myapp.csproj.CoreCompileInputs.cache
+G:\Programming\Projetos\FizzBuzzWithSolution\src\myapp\obj\Debug\netcoreapp3.1\myapp.dll
+G:\Programming\Projetos\FizzBuzzWithSolution\src\myapp\obj\Debug\netcoreapp3.1\myapp.pdb
+G:\Programming\Projetos\FizzBuzzWithSolution\src\myapp\obj\Debug\netcoreapp3.1\myapp.genruntimeconfig.cache
